@@ -1,0 +1,30 @@
+2023-04-28 10:05:31.067  INFO 13968 --- [main] c.e.g.GccStudentApplicationTests         : Starting GccStudentApplicationTests using Java 1.8.0_312 on LAPTOP-UTDCJDD0 with PID 13968 (started by icic in D:\web\GCCStudent)
+2023-04-28 10:05:31.072  INFO 24500 --- [main] c.e.g.GccStudentApplicationTests         : Starting GccStudentApplicationTests using Java 1.8.0_312 on LAPTOP-UTDCJDD0 with PID 24500 (started by icic in D:\web\GCCStudent)
+2023-04-28 10:05:31.076  INFO 13968 --- [main] c.e.g.GccStudentApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-04-28 10:05:31.077  INFO 24500 --- [main] c.e.g.GccStudentApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-04-28 10:05:32.492  INFO 24500 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2023-04-28 10:05:32.498  INFO 24500 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-28 10:05:32.507  INFO 13968 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2023-04-28 10:05:32.512  INFO 13968 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-28 10:05:32.532  INFO 24500 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2023-04-28 10:05:32.549  INFO 13968 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2023-04-28 10:05:33.837  INFO 13968 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2023-04-28 10:05:34.008  INFO 24500 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2023-04-28 10:05:34.436  INFO 13968 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2023-04-28 10:05:34.605  INFO 24500 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2023-04-28 10:05:40.929  INFO 13968 --- [main] c.e.g.GccStudentApplicationTests         : Started GccStudentApplicationTests in 10.525 seconds (JVM running for 12.01)
+2023-04-28 10:05:41.488  INFO 24500 --- [main] c.e.g.GccStudentApplicationTests         : Started GccStudentApplicationTests in 11.089 seconds (JVM running for 12.576)
+2023-04-28 10:05:41.725  INFO 13968 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2023-04-28 10:05:41.727  INFO 13968 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2023-04-28 10:05:41.992  INFO 24500 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2023-04-28 10:05:41.995  INFO 24500 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2023-04-28 10:08:33.632  INFO 7880 --- [main] c.e.g.GccStudentApplicationTests         : Starting GccStudentApplicationTests using Java 1.8.0_312 on LAPTOP-UTDCJDD0 with PID 7880 (started by icic in D:\web\GCCStudent)
+2023-04-28 10:08:33.634  INFO 7880 --- [main] c.e.g.GccStudentApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-04-28 10:08:34.322  INFO 7880 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2023-04-28 10:08:34.326  INFO 7880 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-04-28 10:08:34.355  INFO 7880 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2023-04-28 10:08:35.119  INFO 7880 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2023-04-28 10:08:35.317  INFO 7880 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2023-04-28 10:08:37.449  INFO 7880 --- [main] c.e.g.GccStudentApplicationTests         : Started GccStudentApplicationTests in 4.232 seconds (JVM running for 5.273)
+2023-04-28 10:08:37.757  INFO 7880 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2023-04-28 10:08:37.758  INFO 7880 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed

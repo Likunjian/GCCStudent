@@ -1,0 +1,14 @@
+2023-04-27 16:32:14.524  INFO 5108 --- [main] c.e.g.GccStudentApplicationTests         : Starting GccStudentApplicationTests using Java 1.8.0_312 on LAPTOP-UTDCJDD0 with PID 5108 (started by icic in D:\web\GCCStudent)
+2023-04-27 16:32:14.534  INFO 5108 --- [main] c.e.g.GccStudentApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-04-27 16:32:16.577  INFO 5108 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2023-04-27 16:32:16.916  INFO 5108 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2023-04-27 16:32:19.166  INFO 5108 --- [main] c.e.g.GccStudentApplicationTests         : Started GccStudentApplicationTests in 5.281 seconds (JVM running for 7.597)
+2023-04-27 16:32:19.649  INFO 5108 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2023-04-27 16:32:19.651  INFO 5108 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2023-04-27 16:32:58.155  INFO 27420 --- [main] c.e.g.GccStudentApplicationTests         : Starting GccStudentApplicationTests using Java 1.8.0_312 on LAPTOP-UTDCJDD0 with PID 27420 (started by icic in D:\web\GCCStudent)
+2023-04-27 16:32:58.160  INFO 27420 --- [main] c.e.g.GccStudentApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-04-27 16:33:00.564  INFO 27420 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2023-04-27 16:33:00.859  INFO 27420 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2023-04-27 16:33:03.278  INFO 27420 --- [main] c.e.g.GccStudentApplicationTests         : Started GccStudentApplicationTests in 5.765 seconds (JVM running for 7.709)
+2023-04-27 16:33:04.064  INFO 27420 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2023-04-27 16:33:04.069  INFO 27420 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed

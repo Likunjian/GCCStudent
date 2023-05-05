@@ -1,0 +1,45 @@
+server:
+  port: 8090
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/blog_02?serverTimezone=UTC
+      username: root
+      password: 2060206899
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  redis:
+    database: 0
+    host: 172.19.95.22
+    port: 6379
+    password: 2060206899
+    lettuce:
+      pool:
+        max-active: 8
+        max-wait: 1ms
+        max-idle: 8
+        min-idle: 0
+
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+logging:
+  pattern:
+    #    console: "%d - %clr(%m) %n"
+    console: "%d %clr(%5p) --- [%t] %c %n"
+
+  file:
+    name: server.log
+  logback:
+    rollingpolicy:
+      max-file-size: 10KB
+      file-name-pattern: server.%d{yyyy-MM-dd}.%i.log
+
+
+spring.swagger2.enabled: true
